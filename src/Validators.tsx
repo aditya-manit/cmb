@@ -457,15 +457,15 @@ class ValidatorsComponent extends Component {
             </Chart>
           </div>
         </TabPane>
-        <TabPane tab="Feedback ?" key="7">
-          <div>
-            <Row>
-              <Col style={{ textAlign: 'center' }} span={20}>
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSen5xfBkFQ_H5BH5x2Uhxsxk25c3SCfHdeGCc4W-xVCr5doSg/viewform?embedded=true" width="640" height="1100" frameBorder="0" marginHeight={0} marginWidth={0}>Loading…</iframe>
-              </Col>
-            </Row>
-          </div>
-        </TabPane>
+        {/*<TabPane tab="Feedback ?" key="7">*/}
+        {/*  <div>*/}
+        {/*    <Row>*/}
+        {/*      <Col style={{ textAlign: 'center' }} span={20}>*/}
+        {/*        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSen5xfBkFQ_H5BH5x2Uhxsxk25c3SCfHdeGCc4W-xVCr5doSg/viewform?embedded=true" width="640" height="1100" frameBorder="0" marginHeight={0} marginWidth={0}>Loading…</iframe>*/}
+        {/*      </Col>*/}
+        {/*    </Row>*/}
+        {/*  </div>*/}
+        {/*</TabPane>*/}
       </Tabs>
 
     </div>
